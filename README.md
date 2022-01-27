@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShadFyt
 - 👀 I’m interested in Python, FastAPI
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning FastAPI, SQLModel and React/Redux
 - 📫 How to reach me doanryan10@gmail.com
 
 <!---
