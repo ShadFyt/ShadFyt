@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShadFyt
-- 👀 I’m interested in Python, FastAPI
+- 👀 I’m interested in Python, FastAPI and Htmx
 - 🌱 I’m currently learning FastAPI, SQLModel and React/Redux
 - 📫 How to reach me doanryan10@gmail.com
 
