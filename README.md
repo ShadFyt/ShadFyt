@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShadFyt
-- 👀 I’m interested in Python, FastAPI and Htmx
-- 🌱 I’m currently learning FastAPI, SQLModel and React/Redux
+- 👋 Hi, I’m Ryan A Full Stack Developer.
+- 👀 I’m interested in Python and FastAPI
+- 🌱 I’m currently learning FastAPI, SQLModel
 - 📫 How to reach me doanryan10@gmail.com
 
 <!---
