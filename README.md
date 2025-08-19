@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan A Full Stack Engineer.
-- 👀 I’m interested in Python and FastAPI
+- 👀 I’m interested in Python and FastAPI, MCP servers
 - 🌱 I’m currently learning FastAPI, SQLModel, VueJs
 - 📫 How to reach me doanryan10@gmail.com
 
